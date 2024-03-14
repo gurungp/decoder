@@ -1,5 +1,3 @@
-import collections
-
 
 # this gives the rightmost numbers of the pyramid number sequences which
 # we only need
